@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿### College Laboratory Management System
 
 #### Business Objective
@@ -27,3 +28,6 @@ The objective of the College Laboratory Management System is to streamline and a
 - **Data Accessibility:** Ensures that all relevant information is easily accessible to authorized users, promoting transparency and effective communication.
 
 Overall, the College Laboratory Management System represents a significant advancement in the management of college laboratory activities, contributing to a more efficient and organized educational environment.
+=======
+# AMRITTHEKING.github.io
+>>>>>>> c8e0785f980474849c63d41a7edd7cd1ca001b3f
